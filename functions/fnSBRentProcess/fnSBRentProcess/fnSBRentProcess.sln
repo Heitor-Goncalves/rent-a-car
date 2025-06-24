@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fnSBRentProcess", "fnSBRentProcess.csproj", "{17B912F2-2B3C-CFF0-9612-F6B0D1C493EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17B912F2-2B3C-CFF0-9612-F6B0D1C493EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17B912F2-2B3C-CFF0-9612-F6B0D1C493EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17B912F2-2B3C-CFF0-9612-F6B0D1C493EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17B912F2-2B3C-CFF0-9612-F6B0D1C493EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFB4E1EF-4A89-4863-8790-C86472E49B3D}
+	EndGlobalSection
+EndGlobal
